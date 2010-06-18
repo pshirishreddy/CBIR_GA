@@ -1,0 +1,14 @@
+Name: Similarity Calculator
+author: Shirish Reddy P
+
+Description:
+
+Calculates similar images using genetic algorithms and Haar wavelets 
+
+Installation:
+
+Uses C++, Qt, Opencv Libraries
+
+IDE used : Eclipse
+
+
